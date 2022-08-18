@@ -1,0 +1,1 @@
+CREATE DATABASE `php_test` /*!40100 COLLATE 'armscii8_bin' */;
